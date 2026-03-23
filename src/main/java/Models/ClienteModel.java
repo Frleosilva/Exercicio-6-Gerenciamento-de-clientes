@@ -1,4 +1,4 @@
-package com.flick.clientes.model;
+package Models;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
